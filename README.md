@@ -54,6 +54,7 @@
 | [1138-grumpy-bookstore-owner](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/0502-ipo) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Binary Search
 |  |
 | ------- |
@@ -106,3 +108,16 @@
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
