@@ -26,6 +26,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -72,6 +73,7 @@
 | [1217-relative-sort-array](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 # Trie
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | ------- |
 | [0502-ipo](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/0502-ipo) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2379-maximum-total-importance-of-roads](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 # Binary Search
 |  |
 | ------- |
@@ -158,3 +161,4 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
