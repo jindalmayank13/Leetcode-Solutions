@@ -191,6 +191,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [3460-count-the-number-of-inversions](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/3460-count-the-number-of-inversions) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,4 +213,8 @@
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3460-count-the-number-of-inversions](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/3460-count-the-number-of-inversions) |
 <!---LeetCode Topics End-->
