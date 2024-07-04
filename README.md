@@ -223,4 +223,12 @@
 |  |
 | ------- |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/3443-maximum-total-reward-using-operations-ii) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
