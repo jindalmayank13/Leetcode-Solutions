@@ -1,4 +1,4 @@
-//97-ms
+
 class Solution {
 public:
 
@@ -23,7 +23,7 @@ public:
             previous.swap(current);
         }
 
-        // Compute final result
+        
         maxScore = *max_element(previous.begin(), previous.end());
         return maxScore;
     }
@@ -39,4 +39,3 @@ static const auto speedup = []() {
 }();
 
 
-//https://leetcode.com/problems/maximum-number-of-points-with-cost/submissions/1357876927/
