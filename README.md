@@ -304,6 +304,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0476-number-complement](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/0476-number-complement) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/3443-maximum-total-reward-using-operations-ii) |
 ## Linked List
 |  |
