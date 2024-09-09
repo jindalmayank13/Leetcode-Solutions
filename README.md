@@ -247,6 +247,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2411-spiral-matrix-iv](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
@@ -335,6 +336,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
@@ -350,6 +352,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2846-robot-collisions) |
 ## Math
@@ -433,6 +436,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
 |  |
