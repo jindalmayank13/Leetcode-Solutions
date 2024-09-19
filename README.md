@@ -324,6 +324,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/0664-strange-printer) |
@@ -375,6 +376,7 @@
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
@@ -391,6 +393,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -401,6 +404,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/0564-find-the-closest-palindrome) |
@@ -549,4 +553,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/jindalmayank13/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
