@@ -1,22 +1,61 @@
 class Solution {
-    int dfs(int n, int m, vector<vector<int>>& grid, int i, int j, int prev) {
-        if(i < 0 or j < 0 or i >= n or j >= m or grid[i][j] <= prev)return 0;
-        
-        int val = grid[i][j];
-        grid[i][j] = 0;
-        
-        int ans = max({dfs(n,m,grid,i-1,j+1,val), dfs(n,m,grid,i,j+1,val),dfs(n,m,grid,i+1,j+1,val)}) + 1;
-        
-        return ans;
-    }
 public:
     int maxMoves(vector<vector<int>>& grid) {
-        int n = size(grid), m = size(grid[0]), res = 0;
+        // Get dimensions of the grid
+        int m = grid.size();    // number of rows
+        int n = grid[0].size(); // number of columns
         
-        for(int i = 0; i < n; i++) {
-            res = max(res,dfs(n,m,grid,i,0,-1e6));
+        // res will store the rightmost column we can reach
+        int res = 0;
+        
+        // dp array stores the maximum number of moves possible to reach each cell
+        // in the current column we're processing
+        vector<int> dp(m);
+        
+        // Iterate through each column from left to right (starting from column 1)
+        for (int j = 1; j < n; ++j) {
+            // leftTop keeps track of the dp value from the cell above-left
+            int leftTop = 0;
+            // found indicates if we can reach any cell in current column
+            bool found = false;
+            
+            // Iterate through each row in current column
+            for (int i = 0; i < m; ++i) {
+                // cur will store the maximum moves to reach current cell
+                int cur = -1;
+                // Store dp[i] for next iteration's leftTop
+                int nxtLeftTop = dp[i];
+                
+                // Check move from top-left cell (if valid)
+                if (i - 1 >= 0 && leftTop != -1 && grid[i][j] > grid[i - 1][j - 1]) {
+                    cur = max(cur, leftTop + 1);
+                }
+                
+                // Check move from direct left cell (if valid)
+                if (dp[i] != -1 && grid[i][j] > grid[i][j - 1]) {
+                    cur = max(cur, dp[i] + 1);
+                }
+                
+                // Check move from bottom-left cell (if valid)
+                if (i + 1 < m && dp[i + 1] != -1 && grid[i][j] > grid[i + 1][j - 1]) {
+                    cur = max(cur, dp[i + 1] + 1);
+                }
+                
+                // Update dp array for current cell
+                dp[i] = cur;
+                // Update found flag if we can reach current cell
+                found = found || (dp[i] != -1);
+                // Update leftTop for next row's iteration
+                leftTop = nxtLeftTop;
+            }
+            
+            // If we can't reach any cell in current column, break
+            if (!found) break;
+            // Update result to current column if we can reach it
+            res = j;
         }
         
-        return res - 1;
+        // Return the maximum number of moves possible
+        return res;
     }
 };
